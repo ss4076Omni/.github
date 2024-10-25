@@ -1,1 +1,1 @@
-![test](./test.png)
+![test](../test.png)
